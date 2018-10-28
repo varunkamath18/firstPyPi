@@ -1,2 +1,2 @@
 # firstPyPi
-Test the workflow to upload to pypi
+First project to upload to pypi
